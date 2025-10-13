@@ -1,4 +1,4 @@
-<h1 align="center"><b>🚩 ᴊᴀɪ ꜱʜʀɪ ʀᴀᴍ 🚩</b></h1>
+<h1 align="center"><b>🚩 hey All 🚩</b></h1>
 
 <p align="center">
   <img src="https://github.com/DreamXBotz/Pics/blob/main/dreamxbotz.jpg" alt="DreamxBotz Logo">
@@ -144,4 +144,4 @@ This project is licensed under the [MIT License](https://github.com/MrRaazz/Drea
 
 ---
 
-<p align="center"><b>Jai Shree Krishna 🙏😉</b></p>
+<p align="center"><b>Alhamdulillah 🙏😉</b></p>
